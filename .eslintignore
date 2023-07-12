@@ -1,0 +1,11 @@
+.eslintrc.cjs
+jest.config.ts
+jest.setup.ts
+vite.config.ts
+node_modules
+tsconfig.json
+tsconfig.node.json
+.env
+public/*
+.vscode/*
+.prettierrc
